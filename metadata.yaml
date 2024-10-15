@@ -1,0 +1,33 @@
+_repo: When-freemen-shall-stand_74576
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bond, Nelson S.
+    aliases:
+    - Bond, Nelson Slade
+    - Bond, Nelson
+    - Danzell, George
+    birthdate: 1908
+    deathdate: 2006
+    gutenberg_agent_id: '34095'
+    url: http://www.gutenberg.org/2009/agents/34095
+    wikipedia: https://en.wikipedia.org/wiki/Nelson_S._Bond
+description: ''
+gutenberg_issued: '2024-10-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74576'
+language: en
+pgterms:marc905: 20240520083857bond
+pgterms:marc906: '1942'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aChicago, IL :$bZiff-Davis Publishing Company, $c1942.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: When freemen shall stand
+url: http://www.gutenberg.org/ebooks/74576
